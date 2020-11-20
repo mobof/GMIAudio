@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T02:15:35.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="mCsLc66MDuWpethATldW" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T02:19:18.576Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="fUHoScM5sTyWmfcRpfWO" version="13.10.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="946" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7baba1c4bc27f4b0-2" value="APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="289" y="80" width="100" height="600" as="geometry" />
+          <mxGeometry x="289" y="80" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="30" as="geometry" />
@@ -33,7 +33,7 @@
           <mxGeometry x="45" y="261" width="10" height="68" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-3" value="SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="429" y="80" width="100" height="600" as="geometry" />
+          <mxGeometry x="429" y="80" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="CFkZNdyNAxo6naPSjFns-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-3">
           <mxGeometry x="45" y="176" width="10" height="30" as="geometry" />
@@ -42,10 +42,10 @@
           <mxGeometry x="45" y="274" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-8" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="149" y="80" width="100" height="600" as="geometry" />
+          <mxGeometry x="149" y="80" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
-          <mxGeometry x="45" y="100" width="10" height="480" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="330" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-11" value="启动" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -81,12 +81,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-12" value="账号未激活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CFkZNdyNAxo6naPSjFns-11">
+        <mxCell id="CFkZNdyNAxo6naPSjFns-12" value="账号已激活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CFkZNdyNAxo6naPSjFns-11">
           <mxGeometry x="-0.0013" y="-1" relative="1" as="geometry">
             <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-13" value="账号未激活" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="CFkZNdyNAxo6naPSjFns-13" value="账号已激活" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="343" y="286" as="sourcePoint" />
             <mxPoint x="473" y="286" as="targetPoint" />
@@ -116,7 +116,7 @@
             <mxPoint x="475" y="384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-21" value="设置密码界面" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="CFkZNdyNAxo6naPSjFns-21" value="验证手势界面" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="204" y="409" as="sourcePoint" />
             <mxPoint x="334" y="409" as="targetPoint" />
@@ -128,96 +128,44 @@
         <mxCell id="CFkZNdyNAxo6naPSjFns-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="473" y="453" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-24" value="设置密码" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="CFkZNdyNAxo6naPSjFns-24" value="验证手势" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="203" y="440" as="sourcePoint" />
             <mxPoint x="333" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-25" value="设置密码" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1">
+        <mxCell id="CFkZNdyNAxo6naPSjFns-25" value="验证手势" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="344" y="453" as="sourcePoint" />
             <mxPoint x="474" y="453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-26" value="密码设置成功" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="CFkZNdyNAxo6naPSjFns-26" value="登录成功" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="344" y="483" as="sourcePoint" />
             <mxPoint x="474" y="483" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-27" value="设置手势界面" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="CFkZNdyNAxo6naPSjFns-33" value="APP主界面" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="203" y="508" as="sourcePoint" />
             <mxPoint x="333" y="508" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="333" y="540" width="10" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="473" y="553" width="10" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-30" value="设置手势" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="CFkZNdyNAxo6naPSjFns-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="203" y="540" as="sourcePoint" />
-            <mxPoint x="333" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-31" value="设置手势" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344" y="553" as="sourcePoint" />
-            <mxPoint x="474" y="553" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-32" value="密码设置成功" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344" y="583" as="sourcePoint" />
-            <mxPoint x="474" y="583" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-33" value="APP主界面" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="203" y="660" as="sourcePoint" />
-            <mxPoint x="333" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="482" y="582.9699999999999" as="targetPoint" />
-            <mxPoint x="483" y="557.9" as="sourcePoint" />
+            <mxPoint x="482" y="482.9699999999999" as="targetPoint" />
+            <mxPoint x="483" y="457.9" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="483" y="553" />
-              <mxPoint x="508" y="553" />
-              <mxPoint x="508" y="583" />
+              <mxPoint x="483" y="453" />
+              <mxPoint x="508" y="453" />
+              <mxPoint x="508" y="483" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-35" value="发证、激活账号成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CFkZNdyNAxo6naPSjFns-34">
+        <mxCell id="CFkZNdyNAxo6naPSjFns-42" value="验证手势、&lt;br&gt;发证并登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CFkZNdyNAxo6naPSjFns-41">
           <mxGeometry x="-0.0013" y="-1" relative="1" as="geometry">
-            <mxPoint x="32" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="482" y="629.9699999999998" as="targetPoint" />
-            <mxPoint x="483" y="604.9000000000001" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="483" y="600" />
-              <mxPoint x="508" y="600" />
-              <mxPoint x="508" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-37" value="证书认证成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CFkZNdyNAxo6naPSjFns-36">
-          <mxGeometry x="-0.0013" y="-1" relative="1" as="geometry">
-            <mxPoint x="11" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CFkZNdyNAxo6naPSjFns-38" value="激活并登录成功" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="343" y="630" as="sourcePoint" />
-            <mxPoint x="473" y="630" as="targetPoint" />
+            <mxPoint x="22" y="1.9" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
